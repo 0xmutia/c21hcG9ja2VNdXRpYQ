@@ -12,55 +12,47 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Mutia =====
-[1]Mutia       |08:18:53 | 12-10-2026| login OK @0xmutia | score=990 rank=6162
-[1]Mutia       |08:18:53 | 12-10-2026| serverTime=2026-10-12T08:18:53.000Z local=2026-10-12T08:18:53.318Z
+[1]Mutia       |08:43:53 | 13-10-2026| login OK @0xmutia | score=1080 rank=5740
+[1]Mutia       |08:43:53 | 13-10-2026| serverTime=2026-10-13T08:43:53.000Z local=2026-10-13T08:43:53.665Z
 --> [1]Mutia menjalankan: Claim Daily
-[1]Mutia       |08:18:54 | 12-10-2026| daily: OK +10 poin score=1000
---> [1]Mutia menjalankan: Auto All Tasks (8 pending)
-[1]Mutia       |08:18:56 | 12-10-2026| [1/8] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/0xmutia/status/2109559096291972184
-[1]Mutia       |08:18:56 | 12-10-2026| delay 10s...
-[1]Mutia       |08:19:08 | 12-10-2026| [2/8] c0692622 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/0xmutia/status/2109559058823960326
-[1]Mutia       |08:19:08 | 12-10-2026| delay 10s...
-[1]Mutia       |08:19:20 | 12-10-2026| [3/8] fa907706 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/0xmutia/status/2109559106076167504
-[1]Mutia       |08:19:20 | 12-10-2026| delay 10s...
-[1]Mutia       |08:19:32 | 12-10-2026| [4/8] f3c57454 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Mutia       |08:19:32 | 12-10-2026| delay 10s...
-[1]Mutia       |08:19:44 | 12-10-2026| [5/8] 446fd4f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/0xmutia/status/2109559279366396700
-[1]Mutia       |08:19:44 | 12-10-2026| delay 10s...
-[1]Mutia       |08:19:56 | 12-10-2026| [6/8] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/0xmutia/status/2109559181766748430
-[1]Mutia       |08:19:56 | 12-10-2026| delay 10s...
-[1]Mutia       |08:20:08 | 12-10-2026| [7/8] 65e97767 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Mutia       |08:20:08 | 12-10-2026| delay 10s...
-[1]Mutia       |08:20:20 | 12-10-2026| [8/8] abf84ab9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/0xmutia/status/2109559229386404020
-[1]Mutia       |08:20:20 | 12-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Mutia       |08:20:22 | 12-10-2026| [1/1] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/0xmutia/status/2109559333820839992
+[1]Mutia       |08:43:55 | 13-10-2026| daily: OK +10 poin score=1090
+--> [1]Mutia menjalankan: Auto All Tasks (4 pending)
+[1]Mutia       |08:43:57 | 13-10-2026| [1/4] c3c2f662 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/0xmutia/status/2109927710262249809
+[1]Mutia       |08:43:57 | 13-10-2026| delay 10s...
+[1]Mutia       |08:44:09 | 13-10-2026| [2/4] 52236caa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/0xmutia/status/2109927724020067358
+[1]Mutia       |08:44:09 | 13-10-2026| delay 10s...
+[1]Mutia       |08:44:22 | 13-10-2026| [3/4] 484fa559 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/0xmutia/status/2109927792537713347
+[1]Mutia       |08:44:22 | 13-10-2026| delay 10s...
+[1]Mutia       |08:44:34 | 13-10-2026| [4/4] 7411ef73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/0xmutia/status/2109927678343044778
+[1]Mutia       |08:44:34 | 13-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Mutia       |08:44:36 | 13-10-2026| [1/1] c3c2f662 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/0xmutia/status/2109927649812986699
 --> [1]Mutia menjalankan: Watch Anime
-[1]Mutia       |08:20:23 | 12-10-2026| watch: semua video sudah completed
+[1]Mutia       |08:44:37 | 13-10-2026| watch: semua video sudah completed
 --> [1]Mutia menjalankan: Read Article
-[1]Mutia       |08:20:24 | 12-10-2026| news: 24/24 artikel selesai dibaca
-[1]Mutia       |08:20:24 | 12-10-2026| mint eligibility: {"userId":"1863273077821587456","youtube":{"url":"https://www.youtube.com/@mutiafebriany","status":"submitted","revision":"8af58323-6df9-4002-9992-4b945981c88d","submittedAt":1791675099,"reviewedAt":1
-[1]Mutia       |08:20:24 | 12-10-2026| news: semua artikel sudah dibaca
+[1]Mutia       |08:44:38 | 13-10-2026| news: 24/24 artikel selesai dibaca
+[1]Mutia       |08:44:39 | 13-10-2026| mint eligibility: {"userId":"1863273077821587456","youtube":{"url":"https://www.youtube.com/@mutiafebriany","status":"submitted","revision":"8af58323-6df9-4002-9992-4b945981c88d","submittedAt":1791675099,"reviewedAt":1
+[1]Mutia       |08:44:39 | 13-10-2026| news: semua artikel sudah dibaca
 --> [1]Mutia menjalankan: Quiz Anime
-[1]Mutia       |08:20:25 | 12-10-2026| quiz ep1: sudah dijawab
-[1]Mutia       |08:20:25 | 12-10-2026| quiz ep2: sudah dijawab
-[1]Mutia       |08:20:25 | 12-10-2026| quiz ep3: sudah dijawab
-[1]Mutia       |08:20:25 | 12-10-2026| quiz ep4: sudah dijawab
-[1]Mutia       |08:20:25 | 12-10-2026| quiz ep5: sudah dijawab
-[1]Mutia       |08:20:25 | 12-10-2026| quiz ep6: sudah dijawab
+[1]Mutia       |08:44:40 | 13-10-2026| quiz ep1: sudah dijawab
+[1]Mutia       |08:44:40 | 13-10-2026| quiz ep2: sudah dijawab
+[1]Mutia       |08:44:40 | 13-10-2026| quiz ep3: sudah dijawab
+[1]Mutia       |08:44:40 | 13-10-2026| quiz ep4: sudah dijawab
+[1]Mutia       |08:44:40 | 13-10-2026| quiz ep5: sudah dijawab
+[1]Mutia       |08:44:40 | 13-10-2026| quiz ep6: sudah dijawab
 --> [1]Mutia menjalankan: Music Missions (realtime, bisa lama!)
-[1]Mutia       |08:20:27 | 12-10-2026| music: kedua misi sudah tercapai, stop
-[1]Mutia       |08:20:27 | 12-10-2026| mission music-listens-10: sudah diklaim
-[1]Mutia       |08:20:27 | 12-10-2026| mission music-minutes-30: sudah diklaim
-[1]Mutia       |08:20:27 | 12-10-2026| mission anime-completed-3: sudah diklaim
+[1]Mutia       |08:44:42 | 13-10-2026| music: kedua misi sudah tercapai, stop
+[1]Mutia       |08:44:42 | 13-10-2026| mission music-listens-10: sudah diklaim
+[1]Mutia       |08:44:42 | 13-10-2026| mission music-minutes-30: sudah diklaim
+[1]Mutia       |08:44:42 | 13-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Mutia menjalankan: Claim Missions
-[1]Mutia       |08:20:27 | 12-10-2026| mission music-listens-10: sudah diklaim
-[1]Mutia       |08:20:27 | 12-10-2026| mission music-minutes-30: sudah diklaim
-[1]Mutia       |08:20:27 | 12-10-2026| mission anime-completed-3: sudah diklaim
+[1]Mutia       |08:44:43 | 13-10-2026| mission music-listens-10: sudah diklaim
+[1]Mutia       |08:44:43 | 13-10-2026| mission music-minutes-30: sudah diklaim
+[1]Mutia       |08:44:43 | 13-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Mutia menjalankan: Check Eligibility
 
 --- eligibility [1]Mutia ---
-  @0xmutia | score=990 rank=6162
-  tasks    [##################--] 72/80
+  @0xmutia | score=1080 rank=5740
+  tasks    [###################-] 73/77
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -68,17 +60,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   watch    [####################] 18/17
   music    [####################] 11/11
   artikel  [####################] 24/24
-  mint: requirementsMet=true mintOpen=false discord=true
+  mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Mutia menjalankan: Read Manga
-[1]Mutia       |08:20:32 | 12-10-2026| manga: 0/13 chapter belum completed
+[1]Mutia       |08:44:48 | 13-10-2026| manga: 0/13 chapter belum completed
 --> [1]Mutia menjalankan: Get Gift
-[1]Mutia       |08:20:32 | 12-10-2026| gift: 0/3 belum diterima
+[1]Mutia       |08:44:48 | 13-10-2026| gift: 0/3 belum diterima
 --> [1]Mutia menjalankan: Setup Profile
-[1]Mutia       |08:20:33 | 12-10-2026| profile: bio="https://x.com/0xmutia" fav=amato rewardAt=1791707230
-[1]Mutia       |08:20:33 | 12-10-2026| profile: bonus sudah diklaim, skip
+[1]Mutia       |08:44:49 | 13-10-2026| profile: bio="https://x.com/0xmutia" fav=amato rewardAt=1791707230
+[1]Mutia       |08:44:49 | 13-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Mutia menjalankan: Bind Wallet
-[1]Mutia       |08:20:33 | 12-10-2026| wallet: sudah terikat RnKrEM8ih3... (solana)
+[1]Mutia       |08:44:50 | 13-10-2026| wallet: sudah terikat RnKrEM8ih3... (solana)
 
 == RINGKASAN ==
-- Mutia: daily=claimed | tasks OK 9/9 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=true open=false
+- Mutia: daily=claimed | tasks OK 5/5 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=false open=false
