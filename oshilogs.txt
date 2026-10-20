@@ -12,84 +12,123 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Mutia =====
-[1]Mutia       |07:27:26 | 19-10-2026| login OK @0xmutia | score=1430 rank=4795
-[1]Mutia       |07:27:26 | 19-10-2026| serverTime=2026-10-19T07:27:26.000Z local=2026-10-19T07:27:26.362Z
+[1]Mutia       |07:17:48 | 20-10-2026| login OK @0xmutia | score=1530 rank=4573
+[1]Mutia       |07:17:48 | 20-10-2026| serverTime=2026-10-20T07:17:48.000Z local=2026-10-20T07:17:48.304Z
 --> [1]Mutia menjalankan: Claim Daily
-[1]Mutia       |07:27:28 | 19-10-2026| daily: OK +10 poin score=1440
---> [1]Mutia menjalankan: Auto All Tasks (9 pending)
-[1]Mutia       |07:27:31 | 19-10-2026| [1/9] 29d2bf65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"29d2bf65-58a2-4555-ba23-eb6dda6692f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211207884919026 | proof=https://x.com/0xmutia/status/2112082804859896924
-[1]Mutia       |07:27:31 | 19-10-2026| delay 10s...
-[1]Mutia       |07:27:44 | 19-10-2026| [2/9] 1cc2da8d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"29d2bf65-58a2-4555-ba23-eb6dda6692f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211207884919026 | proof=https://x.com/0xmutia/status/2112082872275348844
-[1]Mutia       |07:27:44 | 19-10-2026| delay 10s...
-[1]Mutia       |07:27:56 | 19-10-2026| [3/9] e792000f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"29d2bf65-58a2-4555-ba23-eb6dda6692f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211207884919026 | proof=https://x.com/0xmutia/status/2112083039149255654
-[1]Mutia       |07:27:56 | 19-10-2026| delay 10s...
-[1]Mutia       |07:28:10 | 19-10-2026| [4/9] 5830cfb5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"29d2bf65-58a2-4555-ba23-eb6dda6692f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211207884919026 | proof=https://x.com/0xmutia/status/2112082756861936222
-[1]Mutia       |07:28:10 | 19-10-2026| delay 10s...
-[1]Mutia       |07:28:23 | 19-10-2026| [5/9] 75d20c29 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"29d2bf65-58a2-4555-ba23-eb6dda6692f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211207884919026 | proof=https://x.com/0xmutia/status/2112083099079613501
-[1]Mutia       |07:28:23 | 19-10-2026| delay 10s...
-[1]Mutia       |07:28:37 | 19-10-2026| [6/9] c4a0bafb (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"29d2bf65-58a2-4555-ba23-eb6dda6692f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211207884919026 | proof=https://x.com/0xmutia/status/2112083036247463406
-[1]Mutia       |07:28:37 | 19-10-2026| delay 10s...
-[1]Mutia       |07:28:49 | 19-10-2026| [7/9] de7bf305 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"29d2bf65-58a2-4555-ba23-eb6dda6692f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211207884919026 | proof=https://x.com/0xmutia/status/2112082925314570801
-[1]Mutia       |07:28:49 | 19-10-2026| delay 10s...
-[1]Mutia       |07:29:02 | 19-10-2026| [8/9] f2efc21b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"29d2bf65-58a2-4555-ba23-eb6dda6692f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211207884919026 | proof=https://x.com/0xmutia/status/2112083170724374248
-[1]Mutia       |07:29:02 | 19-10-2026| delay 10s...
-[1]Mutia       |07:29:15 | 19-10-2026| [9/9] c821602a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"29d2bf65-58a2-4555-ba23-eb6dda6692f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211207884919026 | proof=https://x.com/0xmutia/status/2112083291028101513
-[1]Mutia       |07:29:15 | 19-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Mutia       |07:29:17 | 19-10-2026| [1/1] 29d2bf65 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"29d2bf65-58a2-4555-ba23-eb6dda6692f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112078849190269 | proof=https://x.com/0xmutia/status/2112083271326489656
+[1]Mutia       |07:17:49 | 20-10-2026| daily: OK +10 poin score=1540
+--> [1]Mutia menjalankan: Auto All Tasks (7 pending)
+[1]Mutia       |07:17:50 | 20-10-2026| [1/7] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/0xmutia/status/2112442894149615468
+[1]Mutia       |07:17:50 | 20-10-2026| delay 10s...
+[1]Mutia       |07:18:02 | 20-10-2026| [2/7] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/0xmutia/status/2112442917469086035
+[1]Mutia       |07:18:02 | 20-10-2026| delay 10s...
+[1]Mutia       |07:18:14 | 20-10-2026| [3/7] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/0xmutia/status/2112442829468697135
+[1]Mutia       |07:18:14 | 20-10-2026| delay 10s...
+[1]Mutia       |07:18:26 | 20-10-2026| [4/7] ecdd3dc8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/0xmutia/status/2112442777619844403
+[1]Mutia       |07:18:26 | 20-10-2026| delay 10s...
+[1]Mutia       |07:18:38 | 20-10-2026| [5/7] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/0xmutia/status/2112443013080159264
+[1]Mutia       |07:18:38 | 20-10-2026| delay 10s...
+[1]Mutia       |07:18:50 | 20-10-2026| [6/7] 8ff68dcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/0xmutia/status/2112443067877923118
+[1]Mutia       |07:18:50 | 20-10-2026| delay 10s...
+[1]Mutia       |07:19:02 | 20-10-2026| [7/7] 57f13195 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/0xmutia/status/2112443146676463828
+[1]Mutia       |07:19:02 | 20-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Mutia       |07:19:03 | 20-10-2026| [1/1] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112200949674791 | proof=https://x.com/0xmutia/status/2112443084674567323
 --> [1]Mutia menjalankan: Watch Anime
-[1]Mutia       |07:29:18 | 19-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Mutia       |07:29:18 | 19-10-2026| watch [1/4] farming oshi-captains-hat...
-  video baru dikenal: oshi-captains-hat (katalog +5)
-[1]Mutia       |07:29:20 | 19-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Mutia       |07:29:25 | 19-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Mutia       |07:29:27 | 19-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Mutia       |07:29:32 | 19-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Mutia       |07:29:34 | 19-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
-[1]Mutia       |07:29:39 | 19-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Mutia       |07:29:42 | 19-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
+[1]Mutia       |07:19:04 | 20-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Mutia       |07:19:04 | 20-10-2026| watch [1/4] farming oshi-captains-hat...
+[1]Mutia       |07:19:06 | 20-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
+[1]Mutia       |07:19:12 | 20-10-2026| watch oshi-captains-hat: 5% (5.17/92.00s)
+[1]Mutia       |07:19:18 | 20-10-2026| watch oshi-captains-hat: 11% (10.53/92.00s)
+[1]Mutia       |07:19:24 | 20-10-2026| watch oshi-captains-hat: 17% (16.25/92.00s)
+[1]Mutia       |07:19:30 | 20-10-2026| watch oshi-captains-hat: 23% (21.80/92.00s)
+[1]Mutia       |07:19:37 | 20-10-2026| watch oshi-captains-hat: 29% (27.13/92.00s)
+[1]Mutia       |07:19:43 | 20-10-2026| watch oshi-captains-hat: 35% (33.07/92.00s)
+[1]Mutia       |07:19:49 | 20-10-2026| watch oshi-captains-hat: 41% (38.56/92.00s)
+[1]Mutia       |07:19:55 | 20-10-2026| watch oshi-captains-hat: 47% (43.83/92.00s)
+[1]Mutia       |07:20:01 | 20-10-2026| watch oshi-captains-hat: 53% (49.34/92.00s)
+[1]Mutia       |07:20:07 | 20-10-2026| watch oshi-captains-hat: 59% (54.67/92.00s)
+[1]Mutia       |07:20:24 | 20-10-2026| watch oshi-captains-hat: heartbeat GAGAL http=503
+[1]Mutia       |07:20:29 | 20-10-2026| watch [2/4] farming oshi-rainbow-star...
+[1]Mutia       |07:20:30 | 20-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
+[1]Mutia       |07:20:36 | 20-10-2026| watch oshi-rainbow-star: 6% (5.19/86.00s)
+[1]Mutia       |07:20:43 | 20-10-2026| watch oshi-rainbow-star: 12% (10.55/86.00s)
+[1]Mutia       |07:20:48 | 20-10-2026| watch oshi-rainbow-star: 18% (16.10/86.00s)
+[1]Mutia       |07:20:55 | 20-10-2026| watch oshi-rainbow-star: 24% (21.43/86.00s)
+[1]Mutia       |07:21:01 | 20-10-2026| watch oshi-rainbow-star: 31% (27.03/86.00s)
+[1]Mutia       |07:21:07 | 20-10-2026| watch oshi-rainbow-star: 37% (32.39/86.00s)
+[1]Mutia       |07:21:13 | 20-10-2026| watch oshi-rainbow-star: 44% (37.89/86.00s)
+[1]Mutia       |07:21:19 | 20-10-2026| watch oshi-rainbow-star: 50% (43.22/86.00s)
+[1]Mutia       |07:21:26 | 20-10-2026| watch oshi-rainbow-star: 56% (48.55/86.00s)
+[1]Mutia       |07:21:32 | 20-10-2026| watch oshi-rainbow-star: 63% (54.68/86.00s)
+[1]Mutia       |07:21:38 | 20-10-2026| watch oshi-rainbow-star: 70% (60.61/86.00s)
+[1]Mutia       |07:21:44 | 20-10-2026| watch oshi-rainbow-star: 76% (66.19/86.00s)
+[1]Mutia       |07:21:50 | 20-10-2026| watch oshi-rainbow-star: 83% (71.53/86.00s)
+[1]Mutia       |07:21:57 | 20-10-2026| watch oshi-rainbow-star: 89% (76.89/86.00s)
+[1]Mutia       |07:22:03 | 20-10-2026| watch oshi-rainbow-star: 96% (83.13/86.00s)
+[1]Mutia       |07:22:03 | 20-10-2026| watch oshi-rainbow-star: COMPLETED (83.13/86.00s)
+[1]Mutia       |07:22:08 | 20-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
+[1]Mutia       |07:22:09 | 20-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
+[1]Mutia       |07:22:15 | 20-10-2026| watch oshi-rainbow-lighthouse: 5% (5.12/87.00s)
+[1]Mutia       |07:22:22 | 20-10-2026| watch oshi-rainbow-lighthouse: 12% (10.52/87.00s)
+[1]Mutia       |07:22:28 | 20-10-2026| watch oshi-rainbow-lighthouse: 18% (16.21/87.00s)
+[1]Mutia       |07:22:34 | 20-10-2026| watch oshi-rainbow-lighthouse: 24% (21.54/87.00s)
+[1]Mutia       |07:22:40 | 20-10-2026| watch oshi-rainbow-lighthouse: 30% (26.88/87.00s)
+[1]Mutia       |07:22:46 | 20-10-2026| watch oshi-rainbow-lighthouse: 37% (32.26/87.00s)
+[1]Mutia       |07:22:52 | 20-10-2026| watch oshi-rainbow-lighthouse: 43% (37.62/87.00s)
+[1]Mutia       |07:22:58 | 20-10-2026| watch oshi-rainbow-lighthouse: 49% (43.38/87.00s)
+[1]Mutia       |07:23:04 | 20-10-2026| watch oshi-rainbow-lighthouse: 56% (48.90/87.00s)
+[1]Mutia       |07:23:10 | 20-10-2026| watch oshi-rainbow-lighthouse: 62% (54.20/87.00s)
+[1]Mutia       |07:23:17 | 20-10-2026| watch oshi-rainbow-lighthouse: 68% (59.54/87.00s)
+[1]Mutia       |07:23:23 | 20-10-2026| watch oshi-rainbow-lighthouse: 75% (65.65/87.00s)
+[1]Mutia       |07:23:29 | 20-10-2026| watch oshi-rainbow-lighthouse: 82% (71.34/87.00s)
+[1]Mutia       |07:23:35 | 20-10-2026| watch oshi-rainbow-lighthouse: 88% (77.05/87.00s)
+[1]Mutia       |07:23:41 | 20-10-2026| watch oshi-rainbow-lighthouse: 94% (82.35/87.00s)
+[1]Mutia       |07:23:41 | 20-10-2026| watch oshi-rainbow-lighthouse: COMPLETED (82.35/87.00s)
+[1]Mutia       |07:23:46 | 20-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
+[1]Mutia       |07:23:48 | 20-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
+[1]Mutia       |07:23:54 | 20-10-2026| watch bakeru-ikesou-jan-mv: 2% (5.07/181.00s)
+[1]Mutia       |07:24:00 | 20-10-2026| watch bakeru-ikesou-jan-mv: 5% (10.47/181.00s)
+[1]Mutia       |07:24:06 | 20-10-2026| watch bakeru-ikesou-jan-mv: 8% (16.01/181.00s)
+[1]Mutia       |07:24:12 | 20-10-2026| watch bakeru-ikesou-jan-mv: 12% (21.85/181.00s)
+[1]Mutia       |07:24:18 | 20-10-2026| watch bakeru-ikesou-jan-mv: 15% (27.20/181.00s)
+[1]Mutia       |07:24:24 | 20-10-2026| watch bakeru-ikesou-jan-mv: 17% (32.52/181.00s)
+[1]Mutia       |07:24:30 | 20-10-2026| watch bakeru-ikesou-jan-mv: 20% (37.90/181.00s)
+[1]Mutia       |07:24:36 | 20-10-2026| watch bakeru-ikesou-jan-mv: 23% (43.21/181.00s)
+[1]Mutia       |07:24:42 | 20-10-2026| watch bakeru-ikesou-jan-mv: 26% (48.57/181.00s)
+[1]Mutia       |07:24:49 | 20-10-2026| watch bakeru-ikesou-jan-mv: 29% (53.99/181.00s)
+[1]Mutia       |07:24:55 | 20-10-2026| watch bakeru-ikesou-jan-mv: 33% (60.06/181.00s)
+[1]Mutia       |07:25:02 | 20-10-2026| watch bakeru-ikesou-jan-mv: 36% (66.03/181.00s)
+[1]Mutia       |07:25:08 | 20-10-2026| watch bakeru-ikesou-jan-mv: 39% (71.79/181.00s)
+[1]Mutia       |07:25:20 | 20-10-2026| watch bakeru-ikesou-jan-mv: 42% (77.47/181.00s)
+[1]Mutia       |07:25:29 | 20-10-2026| watch bakeru-ikesou-jan-mv: heartbeat GAGAL http=503
 --> [1]Mutia menjalankan: Read Article
-[1]Mutia       |07:29:45 | 19-10-2026| news: 27/27 artikel selesai dibaca
-[1]Mutia       |07:29:45 | 19-10-2026| mint eligibility: {"userId":"1863273077821587456","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@mutiafebriany","status":"submitted","revision":"8af58323-6df9-4002-9992-4b945981
-[1]Mutia       |07:29:45 | 19-10-2026| news: semua artikel sudah dibaca
+[1]Mutia       |07:25:29 | 20-10-2026| news ERROR: news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Mutia menjalankan: Quiz Anime
-[1]Mutia       |07:29:46 | 19-10-2026| quiz ep1: sudah dijawab
-[1]Mutia       |07:29:46 | 19-10-2026| quiz ep2: sudah dijawab
-[1]Mutia       |07:29:46 | 19-10-2026| quiz ep3: sudah dijawab
-[1]Mutia       |07:29:46 | 19-10-2026| quiz ep4: sudah dijawab
-[1]Mutia       |07:29:46 | 19-10-2026| quiz ep5: sudah dijawab
-[1]Mutia       |07:29:46 | 19-10-2026| quiz ep6: sudah dijawab
+[1]Mutia       |07:25:29 | 20-10-2026| quiz ERROR: quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Mutia menjalankan: Music Missions (realtime, bisa lama!)
-[1]Mutia       |07:29:49 | 19-10-2026| music: kedua misi sudah tercapai, stop
-[1]Mutia       |07:29:50 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Mutia       |07:29:50 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Mutia       |07:29:50 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Mutia       |07:25:30 | 20-10-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Mutia       |07:25:30 | 20-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Mutia menjalankan: Claim Missions
-[1]Mutia       |07:29:51 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Mutia       |07:29:51 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Mutia       |07:29:51 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Mutia       |07:25:30 | 20-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Mutia menjalankan: Check Eligibility
 
 --- eligibility [1]Mutia ---
-  @0xmutia | score=1430 rank=4795
-  tasks    [##################--] 74/83
-  mission  music-listens-10:      claimed
-  mission  music-minutes-30:      claimed
-  mission  anime-completed-3:     claimed
-  quiz     [####################] 6/6
-  watch    [####################] 18/17
-  music    [####################] 11/11
-  artikel  [####################] 27/27
-  mint: requirementsMet=false mintOpen=false discord=true
+  @0xmutia | score=1530 rank=4573
+  tasks    [##################--] 73/80
+  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 
 --> [1]Mutia menjalankan: Read Manga
-[1]Mutia       |07:29:56 | 19-10-2026| manga: 0/13 chapter belum completed
+[1]Mutia       |07:25:32 | 20-10-2026| manga ERROR: manga-history http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Mutia menjalankan: Get Gift
-[1]Mutia       |07:29:57 | 19-10-2026| gift: 0/4 belum diterima
+[1]Mutia       |07:25:32 | 20-10-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Mutia menjalankan: Setup Profile
-[1]Mutia       |07:29:58 | 19-10-2026| profile: bio="https://x.com/0xmutia" fav=amato rewardAt=1791707230
-[1]Mutia       |07:29:58 | 19-10-2026| profile: bonus sudah diklaim, skip
+[1]Mutia       |07:25:32 | 20-10-2026| profile ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Mutia menjalankan: Bind Wallet
-[1]Mutia       |07:29:59 | 19-10-2026| wallet: sudah terikat RnKrEM8ih3... (solana)
+[1]Mutia       |07:25:32 | 20-10-2026| wallet ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 
 == RINGKASAN ==
-- Mutia: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Mutia: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 2/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet -
