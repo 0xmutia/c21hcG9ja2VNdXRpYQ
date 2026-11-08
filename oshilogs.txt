@@ -12,39 +12,41 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Mutia =====
-[1]Mutia       |08:04:10 | 07-11-2026| login OK @0xmutia | score=2950 rank=2546
-[1]Mutia       |08:04:10 | 07-11-2026| serverTime=2026-11-07T08:04:10.000Z local=2026-11-07T08:04:10.270Z
+[1]Mutia       |07:00:35 | 08-11-2026| login OK @0xmutia | score=2990 rank=2519
+[1]Mutia       |07:00:35 | 08-11-2026| serverTime=2026-11-08T07:00:35.000Z local=2026-11-08T07:00:35.206Z
 --> [1]Mutia menjalankan: Claim Daily
-[1]Mutia       |08:04:11 | 07-11-2026| daily: OK +10 poin score=2960
---> [1]Mutia menjalankan: Auto All Tasks (3 pending)
-[1]Mutia       |08:04:14 | 07-11-2026| [1/3] 00a6a949 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/0xmutia/status/2118977247010319640
-[1]Mutia       |08:04:14 | 07-11-2026| delay 10s...
-[1]Mutia       |08:04:27 | 07-11-2026| [2/3] 3031f6f7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/0xmutia/status/2118977413204743638
-[1]Mutia       |08:04:27 | 07-11-2026| delay 10s...
-[1]Mutia       |08:04:39 | 07-11-2026| [3/3] 3c85a813 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/0xmutia/status/2118977650652452432
-[1]Mutia       |08:04:39 | 07-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Mutia       |08:04:40 | 07-11-2026| [1/1] 00a6a949 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2118895980104015 | proof=https://x.com/0xmutia/status/2118977376930114106
+[1]Mutia       |07:00:36 | 08-11-2026| daily: OK +10 poin score=3000
+--> [1]Mutia menjalankan: Auto All Tasks (4 pending)
+[1]Mutia       |07:00:38 | 08-11-2026| [1/4] 1e22156f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1e22156f-2ce1-46d1-9ee4-60b796006750","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211924137814021 | proof=https://x.com/0xmutia/status/2119323577982485943
+[1]Mutia       |07:00:38 | 08-11-2026| delay 10s...
+[1]Mutia       |07:00:50 | 08-11-2026| [2/4] e0619629 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1e22156f-2ce1-46d1-9ee4-60b796006750","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211924137814021 | proof=https://x.com/0xmutia/status/2119323980327292404
+[1]Mutia       |07:00:50 | 08-11-2026| delay 10s...
+[1]Mutia       |07:01:02 | 08-11-2026| [3/4] 260028a2 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1e22156f-2ce1-46d1-9ee4-60b796006750","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211924137814021 | proof=https://x.com/0xmutia/status/2119323711800382150
+[1]Mutia       |07:01:02 | 08-11-2026| delay 10s...
+[1]Mutia       |07:01:15 | 08-11-2026| [4/4] ceb22d73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1e22156f-2ce1-46d1-9ee4-60b796006750","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211924137814021 | proof=https://x.com/0xmutia/status/2119323963346652463
+[1]Mutia       |07:01:15 | 08-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Mutia       |07:01:16 | 08-11-2026| [1/1] 1e22156f (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"1e22156f-2ce1-46d1-9ee4-60b796006750","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2119241378140217 | proof=https://x.com/0xmutia/status/2119323897054793248
 --> [1]Mutia menjalankan: Watch Anime
-[1]Mutia       |08:04:41 | 07-11-2026| watch: semua video sudah completed
+[1]Mutia       |07:01:17 | 08-11-2026| watch: semua video sudah completed
 --> [1]Mutia menjalankan: Read Article
-[1]Mutia       |08:04:42 | 07-11-2026| news: 34/34 artikel selesai dibaca
-[1]Mutia       |08:04:43 | 07-11-2026| mint eligibility: {"userId":"1863273077821587456","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@mutiafebriany","status":"submitted","revision":"8af58323-6df9-4002-9992-4b945981
-[1]Mutia       |08:04:43 | 07-11-2026| news: semua artikel sudah dibaca
+[1]Mutia       |07:01:18 | 08-11-2026| news: 34/34 artikel selesai dibaca
+[1]Mutia       |07:01:19 | 08-11-2026| mint eligibility: {"userId":"1863273077821587456","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@mutiafebriany","status":"submitted","revision":"8af58323-6df9-4002-9992-4b945981
+[1]Mutia       |07:01:19 | 08-11-2026| news: semua artikel sudah dibaca
 --> [1]Mutia menjalankan: Quiz Anime
 --> [1]Mutia menjalankan: Music Missions (realtime, bisa lama!)
-[1]Mutia       |08:04:46 | 07-11-2026| music: kedua misi sudah tercapai, stop
-[1]Mutia       |08:04:46 | 07-11-2026| mission music-listens-10: sudah diklaim
-[1]Mutia       |08:04:46 | 07-11-2026| mission music-minutes-30: sudah diklaim
-[1]Mutia       |08:04:46 | 07-11-2026| mission anime-completed-3: sudah diklaim
+[1]Mutia       |07:01:22 | 08-11-2026| music: kedua misi sudah tercapai, stop
+[1]Mutia       |07:01:22 | 08-11-2026| mission music-listens-10: sudah diklaim
+[1]Mutia       |07:01:22 | 08-11-2026| mission music-minutes-30: sudah diklaim
+[1]Mutia       |07:01:22 | 08-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Mutia menjalankan: Claim Missions
-[1]Mutia       |08:04:47 | 07-11-2026| mission music-listens-10: sudah diklaim
-[1]Mutia       |08:04:47 | 07-11-2026| mission music-minutes-30: sudah diklaim
-[1]Mutia       |08:04:47 | 07-11-2026| mission anime-completed-3: sudah diklaim
+[1]Mutia       |07:01:23 | 08-11-2026| mission music-listens-10: sudah diklaim
+[1]Mutia       |07:01:23 | 08-11-2026| mission music-minutes-30: sudah diklaim
+[1]Mutia       |07:01:23 | 08-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Mutia menjalankan: Check Eligibility
 
 --- eligibility [1]Mutia ---
-  @0xmutia | score=2950 rank=2546
-  tasks    [##########----------] 3/6
+  @0xmutia | score=2990 rank=2519
+  tasks    [#######-------------] 2/6
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -55,17 +57,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Mutia menjalankan: Read Manga
-[1]Mutia       |08:04:51 | 07-11-2026| manga: 0/13 chapter belum completed
+[1]Mutia       |07:01:26 | 08-11-2026| manga: 0/13 chapter belum completed
 --> [1]Mutia menjalankan: Get Gift
-[1]Mutia       |08:04:52 | 07-11-2026| gift: 3/9 belum diterima
-[1]Mutia       |08:04:53 | 07-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Mutia       |08:04:56 | 07-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Mutia       |08:04:58 | 07-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Mutia       |07:01:27 | 08-11-2026| gift: 3/9 belum diterima
+[1]Mutia       |07:01:28 | 08-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Mutia       |07:01:31 | 08-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Mutia       |07:01:33 | 08-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Mutia menjalankan: Setup Profile
-[1]Mutia       |08:05:01 | 07-11-2026| profile: bio="https://x.com/0xmutia" fav=amato rewardAt=1791707230
-[1]Mutia       |08:05:01 | 07-11-2026| profile: bonus sudah diklaim, skip
+[1]Mutia       |07:01:36 | 08-11-2026| profile: bio="https://x.com/0xmutia" fav=amato rewardAt=1791707230
+[1]Mutia       |07:01:36 | 08-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Mutia menjalankan: Bind Wallet
-[1]Mutia       |08:05:01 | 07-11-2026| wallet: sudah terikat RnKrEM8ih3... (solana)
+[1]Mutia       |07:01:36 | 08-11-2026| wallet: sudah terikat RnKrEM8ih3... (solana)
 
 == RINGKASAN ==
-- Mutia: daily=claimed | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
+- Mutia: daily=claimed | tasks OK 5/5 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
